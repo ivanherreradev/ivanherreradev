@@ -27,4 +27,8 @@ Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes
 - Correo electrónico: [ivanalejandroherrera2000@gmail.com](mailto:ivanalejandroherrera2000@gmail.com)
 - LinkedIn: [Ivan Herrera](https://www.linkedin.com/in/ivanherreradev/)
 
+### ⭐| Github Stats
+
+![Ivan Herrera GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanherreradev&show_icons=true&hide_border=true)
+
 ¡Gracias por visitar mi Github! Espero que encuentres algo interesante aquí y que podamos colaborar juntos en el futuro. ¡No dudes en explorar!
