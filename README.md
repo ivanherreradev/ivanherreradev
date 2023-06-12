@@ -24,11 +24,7 @@ En este espacio, encontrarás una colección de mis proyectos personales y colab
 
 Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes en hacerlo a través de los siguientes medios:
 
-- Correo electrónico: [ivanalejandroherrera2000@gmail.com](mailto:ivanalejandroherrera2000@gmail.com)
+- Correo electrónico: [ivanalejandroherrera@outlook.com](mailto:ivanalejandroherrera@outlook.com)
 - LinkedIn: [Ivan Herrera](https://www.linkedin.com/in/ivanherreradev/)
-
-### ⭐| Github Stats
-
-![Ivan Herrera GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanherreradev&show_icons=true&hide_border=true)
 
 ¡Gracias por visitar mi Github! Espero que encuentres algo interesante aquí y que podamos colaborar juntos en el futuro. ¡No dudes en explorar!
