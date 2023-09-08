@@ -1,30 +1,31 @@
-## Hello world 👋
+<h1>Hello! I'm Ivan Herrera <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h2>Frontend Developer 🎨</h2>
 
-¡Hola! Soy Iván Herrera, desarrollador Frontend y estudiante de la carrera Técnico en Programación en la Universidad Tecnológica Nacional. Resido en Argentina  estoy emocionado de compartir mi trabajo y proyectos contigo.
+### About Me
+- I'm 23 years old and I'm from Chaco, Argentina.
+- I am a Frontend developer with experience in React.
+- I am a self-taught and creative person who seeks to learn and improve day by day.
+- I am a university student in the Technical University Degree in Programming.
+- I have great interest in applying my knowledge in real web projects.
 
-### 😊| Sobre mí
+### Technologies
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
+  ![TailwindCSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=TailwindCSS)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  <br/>
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
-Soy un entusiasta de la programación con un enfoque principal en el desarrollo frontend. Mi habilidad principal es trabajar con tecnologías como React y Next.js. Disfruto construyendo interfaces de usuario interactivas y dinámicas que brinden una gran experiencia al usuario.
+### Contact Me
+<a href="https://www.linkedin.com/in/ivanherreradev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ivan%20Herrera-blue?style=flat-square&logo=linkedin"></a>
+<a href="herreraivan@outlook.com.ar"><img alt="Email" src="https://img.shields.io/badge/Outlook-herreraivan@outlook.com.ar-blue?style=flat-square&logo=gmail"></a>  
 
-### 🎯| Mis habilidades
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanherreradev&label=Profile%20views&color=0e75b6&style=flat" alt="ivanherreradev" /> </p>
 
-- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript.
-- **Librerias de estilo:** Css, Taildwind, Bootstrap, Styled-components.
-- **Control de versiones:** Git, GitHub.
-- **Metodologías de desarrollo:** Desarrollo ágil, Scrum.
-- **Colaboración en equipo:** Trabajo en equipo, comunicación efectiva.
-
-### 💼| Mis proyectos
-
-En este espacio, encontrarás una colección de mis proyectos personales y colaborativos. Cada proyecto cuenta con su propia documentación detallada y enlaces a las demos en vivo. Estoy constantemente aprendiendo y mejorando mis habilidades, por lo que puedes esperar encontrar una variedad de proyectos que exploran diferentes tecnologías y conceptos.
-
-- [Pokedex](https://github.com/ivanherreradev/pokedex)
-
-### 📧| Contacto
-
-Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes en hacerlo a través de los siguientes medios:
-
-- Correo electrónico: [ivanalejandroherrera@outlook.com](mailto:ivanalejandroherrera@outlook.com)
-- LinkedIn: [Ivan Herrera](https://www.linkedin.com/in/ivanherreradev/)
-
-¡Gracias por visitar mi Github! Espero que encuentres algo interesante aquí y que podamos colaborar juntos en el futuro. ¡No dudes en explorar!
+Thanks for visiting my Github! I hope you find something interesting here and that we can collaborate together in the future.
